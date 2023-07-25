@@ -2,7 +2,7 @@
   Hi, It's Saivijaay here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 <h3 align="center">
-  A passionate Web Application Developer & Data Analyst with a desire to explore more about software development :smile:
+  A passionate Web Application Developer & Data Scientist with a desire to explore more about software development :smile:
 </h3>
 <h3>Currently digging into Data Analytics and Machine Learning domain :wink:</h3>
 
@@ -11,7 +11,7 @@
 
 💬 Ask me about - Python, Dot-Net
 
-:computer: Current Interest - Python, Data Analytics, Machine learning, Deep learning
+:computer: Current Interest - Python, Data Analytics, Machine learning, Deep learning, Computer Vision
 
 📫 How to reach me: 
 <br/><br/>
